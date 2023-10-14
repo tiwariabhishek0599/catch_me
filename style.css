@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    height:100vh;
+    width:100vw;
+    background-image: url("https://media.istockphoto.com/id/1385196919/photo/inflation-concept.jpg?s=1024x1024&w=is&k=20&c=4iefZMNZOObViTALBgQ52RZ0lsNBGSelKNVzNhLdszE=");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.container{
+    height:15%;
+    width:10%;
+    background-color: black;
+    color: chocolate;
+    text-align: center;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left:0;
+    top:0;
+}
